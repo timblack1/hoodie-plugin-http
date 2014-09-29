@@ -2,6 +2,7 @@
   "name": "hoodie-plugin-http",
   "version": "0.0.1",
   "description": "Provides interface to HTTP PUT, POST, GET, or DELETE data at any URL",
+  "license": "MIT",
   "main": "worker.js",
   "devDependencies": {
     "mocha": "~1.17.1",
